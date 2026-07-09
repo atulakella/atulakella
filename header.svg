@@ -81,7 +81,7 @@
     </g>
   </g>
 
-  <animateTransform xlink:href="#penguin" href="#penguin"
+  <animateTransform href="#penguin"
     attributeName="transform" type="translate"
     values="-30,-2; 1030,-2" dur="22s" repeatCount="indefinite"/>
 
