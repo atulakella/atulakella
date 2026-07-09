@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="schematic banner, penguin walking along baseline" />
+  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/header.svg" width="100%" alt="schematic banner, penguin walking along baseline" />
 </div>
 
 <div align="center">
@@ -87,7 +87,7 @@ the moment you stop trusting the abstraction.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atulakella&show_icons=true&hide_border=true&bg_color=0B2A4A&icon_color=3EE6C4&title_color=7FC4FF&text_color=DFF3FF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulakella&layout=compact&hide_border=true&bg_color=0B2A4A&title_color=7FC4FF&text_color=DFF3FF)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=atulakella&hide_border=true&background=0B2A4A&ring=3EE6C4&fire=3EE6C4&currStreakLabel=3EE6C4&sideLabels=7FC4FF&currStreakNum=DFF3FF&sideNums=DFF3FF&dates=7FC4FF)
+![Streak](https://streak-stats.demolab.com/?user=atulakella&hide_border=true&background=0B2A4A&ring=3EE6C4&fire=3EE6C4&currStreakLabel=3EE6C4&sideLabels=7FC4FF&currStreakNum=DFF3FF&sideNums=DFF3FF&dates=7FC4FF)
 
 </div>
 
