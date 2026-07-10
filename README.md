@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/header.svg?v=3" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/header.svg?v=4" width="100%" alt="" />
 </div>
 
 <div align="center">
