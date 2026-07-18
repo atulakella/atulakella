@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/header.svg?v=4" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/scope.svg?v=1" width="100%" alt="oscilloscope: PWM trace morphing into an audio waveform" />
 </div>
 
 <div align="center">
@@ -13,12 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atulakella-0b2a4a?style=for-the-badge&logo=linkedin&logoColor=3EE6C4)](https://linkedin.com/in/atulakella)
 [![site](https://img.shields.io/badge/heyatul.xyz-0b2a4a?style=for-the-badge&logo=todoist&logoColor=3EE6C4)](https://heyatul.xyz)
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/scope.svg?v=1" width="100%" alt="oscilloscope: PWM trace morphing into an audio waveform" />
 </div>
 
 <br>
@@ -76,7 +70,7 @@ the moment you stop trusting the abstraction.
 [![site](https://img.shields.io/badge/heyatul.xyz-0e2c4d?style=for-the-badge&logo=todoist&logoColor=3EE6C4)](https://heyatul.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e2c4d?style=for-the-badge&logo=linkedin&logoColor=3EE6C4)](https://linkedin.com/in/atulakella)
 [![X](https://img.shields.io/badge/X-0e2c4d?style=for-the-badge&logo=x&logoColor=3EE6C4)](https://x.com/AtulAkella)
-[![Email](https://img.shields.io/badge/Email-0e2c4d?style=for-the-badge&logo=gmail&logoColor=3EE6C4)](mailto:atul.akella@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0e2c4d?style=for-the-badge&logo=gmail&logoColor=3EE6C4)](mailto:ping@heyatul.xyz)
 
 </div>
 
