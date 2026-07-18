@@ -18,6 +18,12 @@
 <br>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/atulakella/atulakella@main/assets/scope.svg?v=1" width="100%" alt="oscilloscope: PWM trace morphing into an audio waveform" />
+</div>
+
+<br>
+
+<div align="center">
 
 **┌─ NOTES ────────────────────────────────────────────────────┐**
 
