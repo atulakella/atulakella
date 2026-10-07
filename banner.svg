@@ -43,7 +43,7 @@
     <text id="l1" class="l" x="50" y="62" xml:space="preserve">[    0.000000] Linux version 7.2.9 (atul@mission-control)</text>
     <text id="l2" class="l" x="50" y="86" xml:space="preserve">[    0.421337] remoteproc remoteproc0: firmware loaded</text>
     <text id="l3" class="l" x="50" y="110" xml:space="preserve">[    0.733100] optee: secure world initialized</text>
-    <text id="l4" class="l" x="50" y="134" xml:space="preserve">[    0.812441] printk: nobody reads these anyway</text>
+    <text id="l4" class="l" x="50" y="134" xml:space="preserve">[    0.800813] printk: nobody reads these anyway</text>
     <text id="l5" class="l" x="50" y="158" xml:space="preserve">[    0.813027] printk: if you're reading this, you're either me or you don't have a life</text>
     <text id="l6" class="l amber" x="50" y="182" xml:space="preserve">[    1.969000] mm: you can free() any time you like, but you can never exit()</text>
     <g id="cur">
