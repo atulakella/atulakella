@@ -5,19 +5,17 @@
 <br/>
 
 ### ATUL AKELLA
-**Embedded Systems · Embedded Linux · Firmware**
-`ECE` · `VIT-AP University`
+**Embedded Systems | Embedded Linux | Firmware**
 
-Open to Embedded / Firmware / BSP internships. 2026-27
+Open to Embedded/ Firmware/ BSP internships. 2026-27
 
-[Email](mailto:ping@heyatul.xyz) · [Website](https://heyatul.xyz) · [LinkedIn](https://www.linkedin.com/in/atulakella/) · [GitHub](https://github.com/atulakella)
+[Email](mailto:ping@heyatul.xyz) | [Website](https://heyatul.xyz) | [LinkedIn](https://www.linkedin.com/in/atulakella/) | [GitHub](https://github.com/atulakella)
 
 ---
 
 **About**
 
 Final-year Electronics & Communication Engineering student focused on embedded Linux, firmware, and heterogeneous SoCs.
-
 I work close to the hardware; boot flows, remote processors, and the interfaces between hardware and software.
 
 Currently exploring BSP development, Linux kernel internals, secure boot and OP-TEE.
@@ -28,9 +26,9 @@ Currently exploring BSP development, Linux kernel internals, secure boot and OP-
 
 ---
 
-**On the workbench**
+**Currently on the workbench**
 
-Linux kernel internals, BSP development, OP-TEE / secure boot, PCIe.
+Linux kernel internals, BSP development, OP-TEE / secure boot.
 
 ---
 
@@ -38,4 +36,9 @@ Linux kernel internals, BSP development, OP-TEE / secure boot, PCIe.
 
 [heyatul.xyz](https://heyatul.xyz) · [GitHub](https://github.com/atulakella) · [LinkedIn](https://www.linkedin.com/in/atulakella/) · [Email](mailto:ping@heyatul.xyz)
 
-<sub>Building things close to the hardware.</sub>
+<br>
+
+<div align="center">
+  <sub>© 2026 Atul Akella</sub><br>
+  <sub>Building things close to hardware.</sub>
+</div>
